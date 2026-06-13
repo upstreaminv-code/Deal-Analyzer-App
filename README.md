@@ -1,26 +1,26 @@
-# Seller Finance Deal Analyzer
+# Upstream Investments Operating System
 
-A simple Streamlit app for analyzing rental and seller-finance deals.
+A ready-to-use Streamlit app for seller-finance and rental acquisition workflows.
 
-## Features
-- Monthly cash flow
-- NOI
-- DSCR
-- Cash-on-cash return
-- Cap rate
-- Rehab and closing cost inputs
-- Seller finance terms
-- Interest-only or amortized payments
-- Balloon balance and exit profit
-- Offer helper based on target cash flow
+## Includes
 
-## Run locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
+- Single deal analyzer
+- Max offer engine
+- A+ to Pass grading
+- Bulk CSV lead import
+- CRM pipeline
+- Portfolio tracker
+- LOI generator
+- Investment memo builder
+- Capital matching
+- Integration settings page
 
 ## Deploy
-The easiest deployment path is Streamlit Community Cloud.
-Upload these files to GitHub, then connect the repo to Streamlit.
+
+Upload these files to GitHub:
+- app.py
+- requirements.txt
+- README.md
+
+Streamlit main file path:
+app.py
